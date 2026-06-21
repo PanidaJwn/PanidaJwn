@@ -1,12 +1,12 @@
-# Hi there, I'm Panida 👋
+# Hi there, I'm Panida 
 
-🎓 Final-year Computer Science student at Rangsit University  
-💻 Interested in Backend Development & Mobile Application Development  
-🌱 Building projects with Java, Python, Flutter, and MySQL
+Final-year Computer Science student at Rangsit University  
+Interested in Backend Development & Mobile Application Development  
+Building projects with Java, Python, Flutter, and MySQL
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -19,7 +19,7 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Language |
 |---------|-------------|----------|
@@ -29,13 +29,13 @@
 
 ---
 
-## 📊 Most Used Languages
+## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanidaJwn&layout=compact&theme=default&hide_border=true)
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:panida.jwn@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/panida.jumwanna)
