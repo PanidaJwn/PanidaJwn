@@ -1,8 +1,8 @@
 # Hi there, I'm Panida 👋
 
-🎓 Final year Computer Science student at Rangsit University  
-💻 Interested in backend development & mobile apps  
-🌱 Currently building projects with Java, Python, and Flutter  
+🎓 Final-year Computer Science student at Rangsit University  
+💻 Interested in Backend Development & Mobile Application Development  
+🌱 Building projects with Java, Python, Flutter, and MySQL
 
 ---
 
@@ -23,15 +23,14 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [MalaShabu](https://github.com/PanidaJwn/MalaShabu) | Restaurant management desktop app | Java |
-| [app-restaurants](https://github.com/PanidaJwn/app-restaurants) | Restaurant mobile app | Dart/Flutter |
-| [WebScraper-Auto-Report](https://github.com/PanidaJwn/WebScraper-Auto-Report) | Automated web scraping & reporting | Python |
+| [MalaShabu](https://github.com/PanidaJwn/MalaShabu) | Restaurant management desktop application | Java |
+| [app-restaurants](https://github.com/PanidaJwn/app-restaurants) | Restaurant POS mobile application | Flutter / Dart |
+| [WebScraper-Auto-Report](https://github.com/PanidaJwn/WebScraper-Auto-Report) | Automated web scraping and Excel reporting | Python |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
-![Panida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PanidaJwn&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanidaJwn&layout=compact&theme=default&hide_border=true)
 
 ---
