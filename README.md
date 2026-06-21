@@ -1,8 +1,8 @@
 # Hi there, I'm Panida 
 
- Final-year Computer Science student at Rangsit University
- Interested in Software Development, Web Development, and IT
- Building projects with Java, Python, Flutter, HTML/CSS, and MySQL
+🎓 Final-year Computer Science student at Rangsit University
+💻 Interested in Software Development, Web Development, and IT
+🌱 Building projects with Java, Python, Flutter, HTML/CSS, and MySQL
 
 ---
 
